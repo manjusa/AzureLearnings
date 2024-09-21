@@ -1,2 +1,3 @@
 # AzureLearnings
-All azure related learnings
+
+All azure related learnings.
