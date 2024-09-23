@@ -16,7 +16,7 @@ namespace OrderWebAPI.Controllers
         {
             public string Product { get; set; }
             public int Quantity { get; set; }
-            public string CustomerId { get; set; }
+            public string CustId { get; set; }
         }
     }
 }
